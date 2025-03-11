@@ -3,8 +3,13 @@ Data Science
 Programación - Estadistica - Comunicación.
 
 Skills:
-
 * Comprender comportamientos.
 * Dimensionar las tendencias.
 * Estimar proporciones.
 * Realizar nuevas preguntas y tomar decisiones.
+* Anticipar comportamientos (Predecir).
+* Descubrir patrones ocultos.
+* Predecir tendencias.
+* Generar insights (Transformar negocios, influir en politicas, salvar vidas.)
+
+Es un campo que desafia nuestra forma de pensar y de abordar los problemas y ofrece nueva forma de entender y actuar sobre la información que nos rodea y encontrar respuestas mas significativas en un oceano de datos.
